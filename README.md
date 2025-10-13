@@ -1,4 +1,4 @@
-<img width="641" height="144" alt="image" src="https://github.com/user-attachments/assets/13688c81-128b-4def-8f8d-a5719e2d8259" />** Hospital Appointment Booking System **
+** Hospital Appointment Booking System **
 
 A full-stack web application designed to simplify hospital appointment scheduling.  
 Patients can view doctor profiles, check availability, and book appointments online — reducing time spent waiting and improving hospital workflow efficiency.
@@ -12,22 +12,18 @@ Patients can view doctor profiles, check availability, and book appointments onl
 -  **Hospital Dashboard** – Manage appointments, view reports, and track activity.  
 - **Secure Login System** – Authentication for both patients and admin.  
 
-##  Tech Stack
+##  Tech Stack  ##
 
-### **Frontend**
+ **Frontend**
 - HTML  
 - Tailwind CSS   
 - JavaScript (with animations & form validation)
 - TypeScript 
 
-### **Backend**
+ **Backend**
 - Node.js (with TypeScript)
 - Express.js  
  
-### **Database**
+ **Database**
 - MySQL (or SQL)
 
-
----
-
-## 🗂️ Folder Structure
