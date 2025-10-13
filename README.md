@@ -6,7 +6,7 @@ Patients can view doctor profiles, check availability, and book appointments onl
 ##  Features
 
 -  **Doctor Management** – Add, edit, and view doctor profiles with specialization, available days, and timings.  
--  **Patient Portal** – Book, view, and cancel appointments online.  
+-  **Patient Portal** – Book, view appointments online.  
 -  **Real-Time Availability** – Shows only available slots based on the doctor’s schedule.  
 -  **Search & Filter** – Find doctors by name, specialization, or department.  
 -  **Hospital Dashboard** – Manage appointments, view reports, and track activity.  
