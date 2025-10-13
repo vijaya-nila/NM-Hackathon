@@ -25,5 +25,5 @@ Patients can view doctor profiles, check availability, and book appointments onl
 - Express.js  
  
  **Database**
-- MySQL (or SQL)
+- MySQL 
 
