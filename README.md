@@ -14,16 +14,20 @@ Patients can view doctor profiles, check availability, and book appointments onl
 
 ##  Tech Stack  ##
 
- **Frontend**
-- HTML  
-- Tailwind CSS   
-- JavaScript (with animations & form validation)
-- TypeScript 
+### Frontend
+- React
+- TypeScript
+- Vite
+- CSS
 
- **Backend**
-- Node.js (with TypeScript)
-- Express.js  
- 
- **Database**
-- MySQL 
+### Backend
+- Supabase
 
+## 🎯 Future Enhancements
+
+- 🔐 User Authentication
+- 📅 Online Appointment Booking
+- 🤖 AI-based Health Assistant
+- 💳 Payment Gateway Integration
+- 📧 Email Notifications
+- 🌍 Multi-language Support
