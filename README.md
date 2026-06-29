@@ -1,6 +1,6 @@
 ** Hospital Appointment Booking System **
 
-A full-stack web application designed to simplify hospital appointment scheduling.  
+A modern digital web application designed to simplify hospital appointment scheduling.  
 Patients can view doctor profiles, check availability, and book appointments online — reducing time spent waiting and improving hospital workflow efficiency.
 
 ##  Features
